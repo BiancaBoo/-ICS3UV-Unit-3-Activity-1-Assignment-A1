@@ -21,7 +21,7 @@ func main() {
 
 		// OUTPUT
 		// display the result
-		fmt.Println("THE AREA OF A CIRCLE WITH A RADIUS", RADIUS, "CM IS", area, "CM²")
+		fmt.Println("The area of a circle with a radius of", RADIUS, "cm is", area, "cm².")
 
 		fmt.Println("\nDone.")
 }
