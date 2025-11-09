@@ -15,6 +15,6 @@ let RADIUS: number = 5.6;
 let AREA: number = PI * RADIUS * RADIUS;
 
 // OUTPUT
-console.log("THE AREA OF A CIRCLE WITH A RADIUS " + RADIUS + " CM IS " + AREA + " CM²");
+console.log("The area of a circle with a radius of " + RADIUS + " cm is " + AREA + " cm².");
 
 console.log("\nDone.");
